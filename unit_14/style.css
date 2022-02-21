@@ -1,0 +1,21 @@
+html, body {
+    font-family: serif;
+}
+body {
+    margin: 20px;
+}
+.my-card{
+    margin: 150px auto;
+    max-width: 540px;
+}
+.my-card-select{
+    margin: 50px auto;
+    max-width: 540px;
+}
+.degrees{
+    font-size: 25px;
+}
+.icon{
+    margin-left: -5px;
+    margin-top: -5px;
+}
